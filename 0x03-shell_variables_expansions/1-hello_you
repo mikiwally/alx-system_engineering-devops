@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user" whoami
+whoami=id echo "hello user"
