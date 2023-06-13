@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami=id echo "hello user"
+alias whoami="whoami" alias echo=echo"hello user"
